@@ -34,7 +34,7 @@ In order to support this need, initially driven by the laboratory use case, as a
 
 ### Outline of gender harmony artifacts in V2 (Long Term Guidance)
 
-In the *HL7 Standard: Version 2.9.1 - An application Protocol for Electronic Data Exchange in Healthcare Environments* particular you should lookreview  at these sections:
+In the *HL7 Standard: Version 2.9.1 - An application Protocol for Electronic Data Exchange in Healthcare Environments* particular you should look at these sections:
 
 - Name to Use: Chapter 3, PID – Patient Identification Segment (3.4.2)
 - Gender Identity: Chapter 3, GSP – Person Gender and Sex Segment (3.4.19)
